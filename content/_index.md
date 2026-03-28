@@ -1,7 +1,7 @@
 ---
 title: ""
 description: ""
-icon: "/uploads/home-icon.svg"
+icon: "/uploads/home-icon.jpg"
 icon_alt: "Admin11467 icon"
 hero:
   # image: "/uploads/profile.jpg" # 画像を置けば差し替え可能
